@@ -82,4 +82,3 @@ This project is a Python-based prototype implementing a privacy-preserving ident
 ## 👥 Authors
 
 - Joseph Devasia
-- Jeshnavi Sri Kavitha Dakamarri
